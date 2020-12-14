@@ -1,8 +1,8 @@
 <?php
 /*
-BY:- @BenchamXD
+BY:- @PerU_MoNsteR
 
-CHANNEL:- @IndusBots
+MANAGER:- @reporobot
 */
 error_reporting(0);
 
