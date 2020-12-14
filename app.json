@@ -6,8 +6,8 @@
         "Bot",
         "Reading"
     ],
-    "logo": "https://telegra.ph/file/1794c81b97fc30dcefeb2.png",
-    "repository": "https://github.com/Benchamxd/Quote-bot",
+    "logo": "https://telegra.ph/file/47a933ed28eed428d0bee.png",
+    "repository": "https://github.com/PerU-MoNsteR/quotes",
     "success_url": "/",
     "env": {
         "BOT_TOKEN": {
